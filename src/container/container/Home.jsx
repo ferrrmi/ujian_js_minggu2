@@ -5,7 +5,6 @@ import Essay from "../../Component/Essay/Essay";
 import Soal from "../../Component/Soal/Soal";
 
 class Home extends Component {
-
   render() {
     return (
       <div class="card-header">
